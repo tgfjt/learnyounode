@@ -1,5 +1,9 @@
 # Learn You The Node.js For Much Win!
 
+## DEPRECATED: Please use [rvagg/learnyounode](https://github.com/rvagg/learnyounode).
+
+learnyounode-jp は使わずに、日本語対応が完了していますので、fork元の[learnyounode](https://github.com/rvagg/learnyounode) をお使いください。
+
 **An intro to Node.js via a set of self-guided workshops.**
 
 [![NPM](https://nodei.co/npm/learnyounode.png?downloads=true&&downloadRank=true&stars=true)](https://nodei.co/npm/learnyounode/) [![NPM](https://nodei.co/npm-dl/learnyounode.png?months=3&height=3)](https://nodei.co/npm/learnyounode/)
